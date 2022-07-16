@@ -3,3 +3,5 @@ opencv-python-headless
 matplotlib
 numpy
 av
+pydub
+aiortc
