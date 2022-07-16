@@ -1,0 +1,5 @@
+streamlit_webrtc
+opencv-python-headless
+matplotlib
+numpy
+av
